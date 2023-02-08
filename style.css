@@ -1,0 +1,33 @@
+html {
+    background-image: url(img/motoroli.jpg);
+    background-position: top left;
+    background-size: cover;
+    height: auto;
+}
+
+body {
+    padding: 50px;
+}
+
+@font-face {
+    font-family: cooper-black;
+    src: url(../../../../../FONTS/static/SansitaSwashed-Light.ttf);
+}
+
+@font-face {
+    font-family: cooper-black;
+    src: url(../../../../../FONTS/static/SansitaSwashed-Bold.ttf);
+    font-weight: bold;
+}
+
+p {
+    font-family: cooper-black;
+    color: white;
+}
+
+h1 {
+    font-family: cooper-black;
+    color: white;
+
+}
+
